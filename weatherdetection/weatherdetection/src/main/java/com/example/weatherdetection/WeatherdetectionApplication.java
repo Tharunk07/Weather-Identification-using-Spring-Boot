@@ -35,7 +35,7 @@ public class WeatherdetectionApplication {
 	}
 
 }
-
+//This is the Controller Application
 @Controller
 class MyController {
 
